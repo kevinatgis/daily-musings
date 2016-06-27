@@ -1,0 +1,3 @@
+twitter thoughts:
+
+1) rate limits if gathering large datasets (also w streaming)
