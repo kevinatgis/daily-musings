@@ -1,3 +1,5 @@
-twitter thoughts:
+twitter & other data-gathering tidbits:
 
 1) rate limits if gathering large datasets (also w streaming)
+2) read up on web protocols/architectures, ie REST
+3) tweepy api
